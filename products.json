@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Crochet Bag",
+    "price": 25,
+    "image": "https://via.placeholder.com/250",
+    "code": "BAG001"
+  },
+  {
+    "name": "Cute Plushie",
+    "price": 28,
+    "image": "https://via.placeholder.com/250",
+    "code": "PLU001"
+  },
+  {
+    "name": "Crochet Top",
+    "price": 30,
+    "image": "https://via.placeholder.com/250",
+    "code": "TOP001"
+  },
+  {
+    "name": "Crochet Top",
+    "price": 30,
+    "image": "https://via.placeholder.com/250",
+    "code": "TOP002"
+  },
+  {
+    "name": "Crochet Bag",
+    "price": 25,
+    "image": "https://via.placeholder.com/250",
+    "code": "BAG002"
+  },
+  {
+    "name": "Cute Plushie",
+    "price": 28,
+    "image": "https://via.placeholder.com/250",
+    "code": "PLU002"
+  },
+  {
+    "name": "Crochet Top",
+    "price": 30,
+    "image": "https://via.placeholder.com/250",
+    "code": "TOP003"
+  },
+  {
+    "name": "Crochet Top",
+    "price": 30,
+    "image": "https://via.placeholder.com/250",
+    "code": "TOP004"
+  }
+]
